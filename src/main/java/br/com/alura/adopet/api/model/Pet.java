@@ -2,8 +2,8 @@ package br.com.alura.adopet.api.model;
 
 import br.com.alura.adopet.api.dto.CadastroPetDto;
 import jakarta.persistence.*;
-
 import java.util.Objects;
+
 
 @Entity
 @Table(name = "pets")
